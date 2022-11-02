@@ -1,2 +1,3 @@
 a = 'Hello Hari'
 print(a)
+Hello Python
